@@ -26,13 +26,13 @@ run main.m
 ## Experimental Results
 
 <p align="center"> <img src="./results/Table.jpg" width="80%">    </p>
-<p align="center"> Figure 2: Comparison of SSIM, WPSNR and JNDD. </p>
+<p align="center"> Figure 3: Comparison of SSIM, WPSNR and JNDD. </p>
 
 <p align="center"> <img src="./results/kodak.jpg" width="80%">    </p>
-<p align="center"> Figure 3: WPSNR comparison on the database of Kodak for an embedding capacity of 10,000 bits.</p>
+<p align="center"> Figure 4: WPSNR comparison on the database of Kodak for an embedding capacity of 10,000 bits.</p>
 
 <p align="center"> <img src="./results/region.jpg" width="80%">    </p>
-<p align="center"> Figure 4: Comparison of the modification. </p>
+<p align="center"> Figure 5: Comparison of the modification. </p>
 
 
 ## Environment
